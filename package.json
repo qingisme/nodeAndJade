@@ -1,0 +1,9 @@
+{
+  "name":"jadetest",
+  "version":"1.0.0",
+  "private":true,
+  "dependencies":{
+      "express":"4.X",
+      "jade":"~1.11.0"
+  }
+}
